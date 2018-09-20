@@ -12,8 +12,8 @@ class Listener(libmyo.DeviceListener):
     Listener implementation. Return False from any function to
     stop the Hub.
     """
-
-    interval = 0.5  # Output only 0.05 seconds
+    # Output only 0.5 seconds
+    interval = 0.5
 
     def __init__(self):
         super(Listener, self).__init__()
