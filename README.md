@@ -1,4 +1,6 @@
-# Pablo The Manipulator 
+# Pablo The Manipulator
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 ## 📋 Table of Contents
 1. [Usage](#Usage)
