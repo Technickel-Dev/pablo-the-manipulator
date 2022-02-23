@@ -1,6 +1,7 @@
 # Pablo The Manipulator
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Raspberry Pi Badge](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=Raspberry%20Pi&logoColor=white)
 
 ## 📋 Table of Contents
 1. [Usage](#Usage)
